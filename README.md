@@ -7,8 +7,8 @@ The RSET Semester Results Automation Tool is a Python-based application that aut
 * Excel Export: Exports results to an Excel sheet.
 * Error Handling: Manages login failures, network issues, and data retrieval errors.
 # Requirements
-Python 3.x
-Selenium
-pandas
-openpyxl
-Chrome WebDriver (compatible with your Chrome version)
+* Python 3.x
+* Selenium
+* pandas
+* openpyxl
+* Chrome WebDriver (compatible with your Chrome version)
